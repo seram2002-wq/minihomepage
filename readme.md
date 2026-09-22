@@ -5,18 +5,20 @@
 # 사는 곳
 - 서울 은평
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 집갈래
-=======
 # 장바구니
 
 # cart
->>>>>>> feat/buy
-=======
+
 # 서비스 소개
 -서비스 소개를 추가합니다
->>>>>>> feat/about
  
 # search
 search fkjdkjfkdkfjlkd 
+
+
+# sidebar
+사이드바.py
+# login
+log in 안할랭
+
