@@ -12,8 +12,13 @@
 
 # 서비스 소개
 -서비스 소개를 추가합니다
+ 
+# search
+search fkjdkjfkdkfjlkd 
+
 
 # sidebar
 사이드바.py
 # login
 log in 안할랭
+
